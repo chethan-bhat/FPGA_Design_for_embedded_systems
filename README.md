@@ -1,1 +1,1 @@
-This repository contains various degital designs that were made as a part of the eYSIP Summer Internship
+This repository contains various verilog FPGA projects that were made as a part of the eYSIP Summer Internship
